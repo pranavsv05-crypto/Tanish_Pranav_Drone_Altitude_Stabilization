@@ -99,10 +99,14 @@ rather than trial-and-error tuning:
 ---
 
 ## Project Structure
-├── src/                    MATLAB scripts
-├── simulink/               Simulink model (.slx)
-├── results/                Output plots and figures
-└── README.md               This file 
+
+| Folder | Contents |
+|---|---|
+| src/ | All MATLAB scripts |
+| simulink/ | Simulink model (.slx) |
+| results/ | Output plots and figures |
+| README.md | Project documentation |
+
 ---
 
 ## Team
