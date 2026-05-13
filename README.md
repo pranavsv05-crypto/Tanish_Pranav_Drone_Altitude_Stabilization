@@ -86,14 +86,15 @@ rather than trial-and-error tuning:
 - Simulink
 
 ### Steps
+
 1. Clone this repository
 2. Open MATLAB and navigate to the project folder
 3. Run scripts in this order:
-   src/open_loop_analysis.m
-   src/pid_design.m
-   src/controller_comparison.m
-   src/disturbance_analysis.m
-   src/root_locus_analysis.m
+   - open_loop_analysis.m
+   - pid_design.m
+   - controller_comparison.m
+   - disturbance_analysis.m
+   - root_locus_analysis.m
 4. Open simulink/drone_altitude_model.slx for full simulation
 
 ---
