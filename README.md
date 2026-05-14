@@ -100,10 +100,9 @@ Open MATLAB, navigate to src/ folder and run:
 HoverGuard
 ```
 
----
 
-## Demo Video
-[▶ Watch HoverGuard Demo](your-youtube-link-here)
+
+
 
 ---
 
